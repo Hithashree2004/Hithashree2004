@@ -2,30 +2,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,35:92FE9D,70:FF4ECD,100:8A2BE2&height=260&section=header&text=Hi,%20I'm%20Hithashree%20K%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Full%20Stack%20Developer%20Aspirant%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20Graduate%202026&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FF4ECD&center=true&vCenter=true&width=1000&lines=Crafting+Intelligent+Applications+with+Python;Turning+Data+into+Insights;Building+AI-Powered+Real-World+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=FF4ECD&center=true&vCenter=true&width=1000&lines=Crafting+Intelligent+Applications+with+Python;Turning+Data+into+Insights;Building+AI-Powered+Real-World+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Hithashree2004&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Hithashree2004?style=for-the-badge&color=blueviolet" />
 <img src="https://img.shields.io/github/stars/Hithashree2004?style=for-the-badge&color=00C9FF" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-Full%20Stack-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-Intern-00C9FF?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/CSE-Graduate%202026-8A2BE2?style=for-the-badge" />
-
 </div>
 
----
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:FF4ECD&height=85&section=header&text=🌟%20About%20Me&fontSize=32&fontColor=ffffff" />
 
-## 🌟 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Computer Science Engineering Graduate **2026**
 - 💼 Data Science Intern at **Palle Consulting Services**
@@ -39,7 +30,7 @@
 
 ---
 
-## 🚀 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:8A2BE2,100:00C9FF&height=85&section=header&text=🚀%20Tech%20Stack&fontSize=32&fontColor=ffffff" />
 
 <div align="center">
 
@@ -65,7 +56,7 @@
 
 ---
 
-## 📊 Data Science Libraries
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:92FE9D,100:8A2BE2&height=85&section=header&text=📊%20Data%20Science%20Libraries&fontSize=30&fontColor=ffffff" />
 
 <div align="center">
 
@@ -78,7 +69,7 @@
 
 ---
 
-## 📌 Current Focus
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:FF4ECD,100:00C9FF&height=85&section=header&text=📌%20Current%20Focus&fontSize=32&fontColor=ffffff" />
 
 <div align="center">
 
@@ -88,13 +79,9 @@
 
 ---
 
-## 🌟 Career Interests
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00C9FF,100:92FE9D&height=85&section=header&text=🌟%20Career%20Interests&fontSize=32&fontColor=ffffff" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=92FE9D&center=true&vCenter=true&width=1000&lines=🤖+Artificial+Intelligence+%26+Machine+Learning;💻+Python+Full+Stack+Development;📊+Data+Science+%26+Analytics;🌐+Software+Engineering;☁️+Cloud+%26+Modern+Web+Technologies" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF00CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-00C9FF?style=for-the-badge" />
@@ -106,7 +93,7 @@
 
 ---
 
-## 🏆 Achievements
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:8A2BE2,100:FF4ECD&height=85&section=header&text=🏆%20Achievements&fontSize=32&fontColor=ffffff" />
 
 | Achievement | Details |
 |---|---|
@@ -118,7 +105,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,50:00C9FF,100:8A2BE2&height=85&section=header&text=📈%20GitHub%20Analytics&fontSize=32&fontColor=ffffff" />
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hithashree2004&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -131,7 +118,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:8A2BE2,100:00C9FF&height=85&section=header&text=🔥%20Contribution%20Graph&fontSize=32&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hithashree2004&theme=tokyo-night&hide_border=true" />
@@ -139,15 +126,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hithashree2004&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🤝 Open to Opportunities
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:FF4ECD,100:8A2BE2&height=85&section=header&text=🤝%20Open%20to%20Opportunities&fontSize=30&fontColor=ffffff" />
 
 <div align="center">
 
@@ -160,7 +139,7 @@
 
 ---
 
-## 📫 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:FF4ECD,100:00C9FF&height=85&section=header&text=📫%20Connect%20With%20Me&fontSize=32&fontColor=ffffff" />
 
 <div align="center">
 
