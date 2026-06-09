@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hithashree K S</h1> 
 
 <h3 align="center"> 
-🚀 Python Full Stack Developer Aspirant | 🤖 AI/ML Enthusiast | 🎓 CSE Graduate 2026 
+🚀 Python Full Stack Developer Aspirant | 🤖 AI/ML Enthusiast | 🎓 CSE Graduate 2026
 </h3>
 
 <p align="center">
