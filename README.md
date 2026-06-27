@@ -16,7 +16,7 @@
 - 💼 Data Science Intern at Palle Consulting Services
 - 💻 Full Stack Development Intern at Varcons Technologies
 - 🏆 Participated in 8+ Hackathons
-- 🥈 2nd Place - SIH Internal Hackathon
+- 🥈 2nd Place - SIH Internal Hackathon 
 - 📄 Research Contributor in Deep Learning based Medical Imaging
 - 🌱 Passionate about AI/ML, Full Stack Development and Software Engineering
 
