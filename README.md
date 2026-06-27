@@ -90,7 +90,7 @@
 
 ## 🤝 Open to Opportunities
 
-- Software Developer Roles
+- Software Developer Roles 
 - Python Developer Roles
 - Full Stack Developer Roles
 - AI/ML Opportunities
