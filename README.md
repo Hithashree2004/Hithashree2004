@@ -2,7 +2,7 @@
  
 <h3 align="center"> 
 🚀 Python Full Stack Developer Aspirant | 🤖 AI/ML Enthusiast | 🎓 CSE Graduate 2026
-</h3>
+</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=1200&lines=Crafting+Intelligent+Applications+with+Python;Turning+Data+into+Insights+and+Ideas+into+Real-World+Applications" alt="Typing SVG" />
