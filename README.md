@@ -94,12 +94,12 @@
 
 ## 📌 Current Focus
 
-✨ Developing AI-driven solutions and intelligent applications
-✨ Building and enhancing Microsoft SharePoint solutions
-✨ Applying Machine Learning and Computer Vision to real-world problems
-✨ Developing scalable and maintainable software solutions
-✨ Strengthening expertise in AI Engineering, Python, and modern web technologies
-✨ Following industry best practices in software development and engineering  
+✨ Developing AI-driven solutions and intelligent applications <br>
+✨ Building and enhancing Microsoft SharePoint solutions <br>
+✨ Applying Machine Learning and Computer Vision to real-world problems <br>
+✨ Developing scalable and maintainable software solutions <br>
+✨ Strengthening expertise in AI Engineering, Python, and modern web technologies <br>
+✨ Following industry best practices in software development and engineering   <br>
 
 ---
 
