@@ -78,15 +78,9 @@
 
 ✅ Real-Time Collaborative Document Platform
 
-✅ Academic Management / Student Portal
-
 ✅ Diabetes Prediction System using Machine Learning
 
-✅ Brain Tumor Detection Web Application
-
 ✅ Full Stack Web Applications using Python, React.js, Flask, and databases
-
-✅ Data-driven applications and analytics solutions
 
 ✅ Research work involving Deep Learning and Medical Imaging
 
