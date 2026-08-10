@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hithashree K S</h1>  
   
 <h3 align="center">  
-🚀 Python Full Stack Developer Aspirant | 🤖 AI/ML Enthusiast | 🎓 CSE Graduate 2026 
+🚀 AI Engineer & SharePoint Developer | 🤖 AI/ML Enthusiast | 🎓 CSE Graduate 2026 
 </h3> 
 
 <p align="center">
@@ -9,9 +9,10 @@
 </p>
 
 ---
-     
+    
 ## 🌟 About Me
 
+- 💼 AI Engineer & SharePoint Developer @ SACHA Engineers
 - 🎓 Computer Science Engineering Graduate (2026)
 - 💼 Data Science Intern at Palle Consulting Services
 - 💻 Full Stack Development Intern at Varcons Technologies
@@ -67,14 +68,38 @@
 </p>
 
 ---
+## 🛠️ What I've Built
+
+✅ AI-powered applications using Machine Learning and Deep Learning
+
+✅ Computer Vision solutions using YOLOv8 and OpenCV
+
+✅ Medical Imaging applications for Deep Learning-based disease classification
+
+✅ Real-Time Collaborative Document Platform
+
+✅ Academic Management / Student Portal
+
+✅ Diabetes Prediction System using Machine Learning
+
+✅ Brain Tumor Detection Web Application
+
+✅ Full Stack Web Applications using Python, React.js, Flask, and databases
+
+✅ Data-driven applications and analytics solutions
+
+✅ Research work involving Deep Learning and Medical Imaging
+
+---
 
 ## 📌 Current Focus
 
-✨ Building intelligent AI-powered applications  
-✨ Strengthening Python Full Stack Development  
-✨ Exploring Machine Learning and Computer Vision  
-✨ Developing scalable software solutions  
-✨ Continuous learning and innovation  
+✨ Developing AI-driven solutions and intelligent applications
+✨ Building and enhancing Microsoft SharePoint solutions
+✨ Applying Machine Learning and Computer Vision to real-world problems
+✨ Developing scalable and maintainable software solutions
+✨ Strengthening expertise in AI Engineering, Python, and modern web technologies
+✨ Following industry best practices in software development and engineering  
 
 ---
 
