@@ -100,13 +100,13 @@
 ## 🌟 Career Interests
 
 
-🤖 Artificial Intelligence & Machine Learning
-🧠 AI Engineering & Intelligent Systems
-💻 Software Engineering & Python Development
-🌐 Full Stack & Backend Development
-🖥️ Microsoft SharePoint Development
-👁️ Computer Vision & Deep Learning
-☁️ Cloud & Scalable Software Solutions
+🤖 Artificial Intelligence & Machine Learning <br>
+🧠 AI Engineering & Intelligent Systems <br>
+💻 Software Engineering & Python Development <br>
+🌐 Full Stack & Backend Development <br>
+🖥️ Microsoft SharePoint Development <br>
+👁️ Computer Vision & Deep Learning <br>
+☁️ Cloud & Scalable Software Solutions <br>
 
 
 ---
