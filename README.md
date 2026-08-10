@@ -105,11 +105,15 @@
 
 ## 🌟 Career Interests
 
-🤖 Artificial Intelligence & Machine Learning  
-💻 Python Full Stack Development  
-📊 Data Science & Analytics  
-🌐 Software Engineering  
-☁️ Cloud & Modern Web Technologies  
+
+🤖 Artificial Intelligence & Machine Learning
+🧠 AI Engineering & Intelligent Systems
+💻 Software Engineering & Python Development
+🌐 Full Stack & Backend Development
+🖥️ Microsoft SharePoint Development
+👁️ Computer Vision & Deep Learning
+☁️ Cloud & Scalable Software Solutions
+
 
 ---
 
