@@ -107,6 +107,7 @@
 🖥️ Microsoft SharePoint Development <br>
 👁️ Computer Vision & Deep Learning <br>
 ☁️ Cloud & Scalable Software Solutions <br>
+🎨 UI/UX Design <br>
 
 
 ---
@@ -119,6 +120,7 @@
 - AI/ML Opportunities
 - Open Source Contributions
 - Collaborative Tech Projects
+- UI/UX Designer
 
 ---
 
